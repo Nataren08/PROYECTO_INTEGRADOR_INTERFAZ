@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PROYECTO_INTEGRADOR_INTERFAZ", "PROYECTO_INTEGRADOR_INTERFAZ\PROYECTO_INTEGRADOR_INTERFAZ.pyproj", "{DB58D394-B366-4B8B-A147-B756F6D15D6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB58D394-B366-4B8B-A147-B756F6D15D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB58D394-B366-4B8B-A147-B756F6D15D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1482DCAB-8944-4144-AE2B-D0A72FAA38E4}
+	EndGlobalSection
+EndGlobal
